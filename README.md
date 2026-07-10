@@ -9,11 +9,11 @@ Grupo: 7SC
 
 Hice una pequeña app que le puse "Mi Panel de Estudiante". Tiene 4 partes:
 
-- Header, que nada más pone un título arriba, no hace nada más.
-- ProfileCard, que muestra mis datos (nombre, carrera, semestre), pero esos datos
+- Cabecera, que nada más pone un título arriba, no hace nada más.
+- CartaPerfil, que muestra mis datos (nombre, carrera, semestre), pero esos datos
   se los mando desde App, no están escritos ahí adentro.
-- Counter, un contador con botones de + y - para practicar el useState.
-- TaskList, una lista de tareas que se genera a partir de un arreglo.
+- Contador, un contador con botones de + y - para practicar el useState.
+- ListaTareas, una lista de tareas que se genera a partir de un arreglo.
 
 Fui siguiendo el video del curso y le fui agregando lo que pedía la actividad.
 

@@ -44,10 +44,10 @@ const [count, setCount] = useState(0), donde count es el número que se ve en
 pantalla y setCount es lo que uso en los botones para sumar o restar uno. Cada
 vez que se usa setCount, la pantalla se actualiza sola con el nuevo valor.
 
-**d) Pega el enlace de tu repositorio de GitHub:**
+**d) Enlace del repositorio de GitHub:**
 
 https://github.com/Sonnx18/t3_act5_react
 
-**e) Pega el enlace de tu proyecto ya desplegado en GitHub Pages:**
+**e) GitHub Pages:**
 
 https://sonnx18.github.io/t3_act5_react/

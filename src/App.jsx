@@ -1,6 +1,6 @@
 import Cabecera from './components/Cabecera'
-import CartaPerfil from './components/ProfileCard'
-import Contador from './components/Countador'
+import CartaPerfil from './components/CartaPerfil'
+import Contador from './components/Contador'
 import ListaTareas from './components/ListaTareas'
 
 function App() {

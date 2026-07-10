@@ -1,6 +1,6 @@
 function ProfileCard(props) {
   return (
-    <div>
+    <div className="CartaPerfil">
       <h2>Perfil</h2>
       <p>Nombre: {props.nombre}</p>
       <p>Carrera: {props.carrera}</p>
@@ -9,4 +9,4 @@ function ProfileCard(props) {
   )
 }
 
-export default ProfileCard
+export default CartaPerfil

@@ -3,6 +3,7 @@ function TaskList() {
     'Terminar tarea de conmutación',
     'Terminar de ver el video',
     'Terminar de configurar el proyecto de React',
+    'Subir tarea de programación web'
   ]
 
   return (

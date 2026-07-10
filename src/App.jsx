@@ -7,12 +7,16 @@ function App() {
   return (
     <div>
       <Header />
+      <br />
       <ProfileCard
         nombre="Noel López Herrera"
         carrera="Ingeniería en Sistemas Computacionales"
         semestre="Noveno semestre"
       />
+      <br />
       <Counter />
+      <br />
+      <br />
       <TaskList />
     </div>
   )

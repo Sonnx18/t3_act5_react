@@ -13,4 +13,4 @@ function Counter() {
   )
 }
 
-export default Contador
+export default Counter

@@ -7,4 +7,4 @@ function Header() {
   )
 }
 
-export default Cabecera
+export default Header

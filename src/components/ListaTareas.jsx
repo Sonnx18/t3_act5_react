@@ -18,4 +18,4 @@ function TaskList() {
   )
 }
 
-export default ListaTareas
+export default TaskList

@@ -5,7 +5,7 @@ import ListaTareas from './components/ListaTareas'
 
 function App() {
   return (
-    <div>
+    <div className="App"  >
       <Cabecera />
       <br />
       <CartaPerfil
